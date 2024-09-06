@@ -23,12 +23,12 @@ console.log(fullname.split(' ')[0])
 
 console.log(fullname.slice(0, fullname.indexOf(' ')))
 
-const mypet: string = "เสือ*ม้า*ปลา*งู"
+const mypett: string = "เสือ*ม้า*ปลา*งู"
 
-const mypetArray: string[] = mypet.split("*")
+const mypettArray: string[] = mypett.split("*")
 
-console.log(mypet)
-console.log(mypetArray)
+console.log(mypett)
+console.log(mypettArray)
 
 
 const mypet: string = "เสือ*ม้า*ปลา*งู"
